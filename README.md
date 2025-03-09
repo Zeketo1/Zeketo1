@@ -1,2 +1,3 @@
-https://readme-typing-svg.demolab.com/demo/?font=Bitter&lines=Hello%2C+Welcome+To+My+Profile....
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw0JdCPWh2qYq1Bn3jxc232A&ust=1741567958294000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCS2q_k-4sDFQAAAAAdAAAAABAE
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&pause=1000&width=435&lines=Hello%2C+Welcome+To+My+Profile....)](https://git.io/typing-svg)
+[![image](https://github.com/user-attachments/assets/b0c95d6a-9235-43e7-92e1-a42d776738b5)](https://i.gifer.com/3AyY.gif)
+
