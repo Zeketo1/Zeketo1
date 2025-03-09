@@ -1,4 +1,3 @@
-![pexels-kevin-ku-92347-577585](https://github.com/user-attachments/assets/34d6d195-3358-4dcd-b2b5-2e92f57b0f84)
 <h1 align="center">Hi 👋, I'm Ikoro Francis</h1>
 <h3 align="center">I’m a developer driven by a commitment to transform ideas into powerful, seamless user experiences.</h3>
 <img align="right" src="https://i.gifer.com/3AyY.gif" alt="coding" width=”400” />
