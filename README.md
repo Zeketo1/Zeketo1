@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ikoro Francis</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&pause=1000&width=435&lines=Hello%2C+Welcome+To+My+Profile....)](https://git.io/typing-svg)
 <h3 align="center">I’m a developer driven by a commitment to transform ideas into powerful, seamless user experiences.</h3>
 <img align="right" src="https://i.gifer.com/3AyY.gif" alt="coding" width=”400” />
 
